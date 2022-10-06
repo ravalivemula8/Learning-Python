@@ -1,9 +1,8 @@
-#step 1  Get the First number
-def add(x,y):
-
-    #Step 3  Add two numbers and store results
-    z = x+y
-    #step 4
+#subtraction function
+def subt(x,y):
+    z = (x-y)
     print(z)
 
+subt (20,10)
 
+subt(50,30)
