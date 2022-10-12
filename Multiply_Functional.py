@@ -8,5 +8,5 @@ y = input("enter second input")
 print("second value is" + y)
 # add the numbers and store the results
 print("results")
-z = (int(x) / int(y))
+z = (int(x) * int(y))
 print(z)
